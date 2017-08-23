@@ -1,0 +1,2 @@
+# SlideRecyclerView
+Android侧滑删除的RecyclerView
